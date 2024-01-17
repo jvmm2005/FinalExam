@@ -1,0 +1,17 @@
+{
+    "launches": [
+      {
+        "initial_velocity": 20,
+        "launch_angle": 45
+      },
+      {
+        "initial_velocity": 25,
+        "launch_angle": 30
+      },
+      {
+        "initial_velocity": 30,
+        "launch_angle": 60
+      }
+    ]
+  }
+  
